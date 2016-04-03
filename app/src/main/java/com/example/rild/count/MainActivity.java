@@ -19,6 +19,8 @@ public class MainActivity extends ActionBarActivity {
 
     RelativeLayout Rlayout;
 
+    int hogehoge;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
